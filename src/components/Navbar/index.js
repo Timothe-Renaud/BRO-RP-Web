@@ -9,7 +9,11 @@ function Navbar(props) {
       <div className="container">
         <div className="navbar-brand">
           <a className="navbar-item" href="/">
-            <img src="https://mega.nz/fm/a9lAyAZD" width={112} height={28} />
+            <img
+              src="https://filebin.net/qkn4gud9jsm7olvq/logo.png?t=593ft51b"
+              width={100}
+              height={100}
+            />
           </a>
         </div>
       </div>
