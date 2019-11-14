@@ -30,7 +30,7 @@ function MainSection(props) {
           <div className="column is-1" />
           <div className="column">
             <figure className="MainSection__image image">
-              <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/japan_ubgk.svg" />
+              <img src="https://www.zupimages.net/up/19/46/8own.png" />
             </figure>
           </div>
         </div>

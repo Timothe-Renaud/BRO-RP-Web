@@ -14,10 +14,11 @@
   },
   "description": null,
   "dependencies": {
-    "react-scripts": "2.0.3",
-    "react-dom": "16.8.0",
+    "bulma": "0.7.2",
+    "node-sass": "^4.13.0",
     "react": "16.8.0",
-    "bulma": "0.7.2"
+    "react-dom": "16.8.0",
+    "react-scripts": "2.0.3"
   },
   "browserslist": [
     ">0.2%",

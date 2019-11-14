@@ -10,9 +10,10 @@ function Navbar(props) {
         <div className="navbar-brand">
           <a className="navbar-item" href="/">
             <img
-              src="https://filebin.net/qkn4gud9jsm7olvq/logo.png?t=593ft51b"
+            alt='ici on peut metre une image'
+              src=""
               width={100}
-              height={100}
+              height={150}
             />
           </a>
         </div>
