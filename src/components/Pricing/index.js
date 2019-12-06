@@ -23,15 +23,6 @@ function Pricing(props) {
                 <span>{item.ListeJob}</span>
               </div>
               <p className="Pricing__description">{item.description}</p>
-              {/* <button
-                className={
-                  "Pricing__button button is-medium" +
-                  (item.emphasized ? " is-link is-inverted" : "") +
-                  (!item.emphasized ? " is-primary" : "")
-                }
-              >
-                button
-              </button> */}
             </div>
           </div>
         </div>
