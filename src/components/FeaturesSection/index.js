@@ -21,56 +21,56 @@ function FeaturesSection(props) {
               description:
                 "In a professional context it often happens that private or corporate clients corder a publication to be made and presented with the actual content.",
               image:
-                "https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mind_map_cwng.svg"
+                "https://i.imgur.com/oLvVjZn.jpg"
             },
             {
               title: "La Police",
               description:
                 "In a professional context it often happens that private or corporate clients corder a publication to be made and presented with the actual content.",
               image:
-                "https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/personal_settings_kihd.svg"
+                "https://i.imgur.com/aP9wN38.png"
             },
             {
               title: "les EMS",
               description:
                 "In a professional context it often happens that private or corporate clients corder a publication to be made and presented with the actual content.",
               image:
-                "https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/having_fun_iais.svg"
+                "https://i.imgur.com/U7Y1Xsj.jpg"
             },
             {
               title: "les groupes illégaux",
               description:
                 "In a professional context it often happens that private or corporate clients corder a publication to be made and presented with the actual content.",
               image:
-                "https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/balloons_vxx5.svg"
+                "https://i.imgur.com/VcDllP6.jpg"
             },
             {
               title: "Les Jobs Légaux",
               description:
                 "In a professional context it often happens that private or corporate clients corder a publication to be made and presented with the actual content.",
               image:
-                "https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/balloons_vxx5.svg"
+                "https://i.imgur.com/PawdbHJ.jpg"
             },
             {
               title: "Le Concessionnaire",
               description:
                 "In a professional context it often happens that private or corporate clients corder a publication to be made and presented with the actual content.",
               image:
-                "https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/balloons_vxx5.svg"
+                "https://i.imgur.com/LXAlvif.jpg"
             },
             {
               title: "L'immobiliée en ville",
               description:
                 "In a professional context it often happens that private or corporate clients corder a publication to be made and presented with the actual content.",
               image:
-                "https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/balloons_vxx5.svg"
+                "https://i.imgur.com/PawdbHJ.jpg"
             },
             {
-              title: "Le Concessionnaire",
+              title: "la ville en ville",
               description:
                 "In a professional context it often happens that private or corporate clients corder a publication to be made and presented with the actual content.",
               image:
-                "https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/balloons_vxx5.svg"
+                "https://i.imgur.com/bUgBBrd.jpg"
             }
           ]}
         />
