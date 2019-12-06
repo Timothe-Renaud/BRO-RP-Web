@@ -10,7 +10,7 @@ function Navbar(props) {
         <div className="navbar-brand">
           <a className="navbar-item" href="/">
             <img
-            alt='ici on peut metre une image'
+            alt=''
               src=""
               width={100}
               height={150}
