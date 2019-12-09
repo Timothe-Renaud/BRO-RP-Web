@@ -30,7 +30,7 @@ function MainSection(props) {
           <div className="column is-1" />
           <div className="column">
             <figure className=" images effets MainSection__image image">
-              <img src="https://imgur.com/g4qoXJj.png" />
+              <img src="https://i.imgur.com/RPeK41o.png" />
             </figure>
           </div>
         </div>
