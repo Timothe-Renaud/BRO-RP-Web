@@ -13,59 +13,17 @@ function MainSection(props) {
                 Bro's RP
               </h1>
               <p className="MainSection__subtitle subtitle">
-                le seveur bro's RP patatatatattatatatta ETC... Presentation et
-                autre text important de site directement sur la page d'acueil
-              </p>
-              {/**
-               * Section des button de la page d'acueille.
-               */}
-              <div className="columns">
-                <div className="column">
-                  <button
-                  className="button is-primary"
-                  onClick={() => {
-                    const el = document.getElementById("pricing");
-                    el.scrollIntoView({ behavior: "smooth", block: "start" });
-                  }}
-                >
-                  FAQ
-                </button>
-                </div>
-                <div className="column">
-                  <button
-                    className="button is-primary"
-                    onClick={() => {
-                      const lien = window.open('https://discord.gg/CaNC79W','lienWebToDiscord')
-                      
-                    }}
-                  >
-                    Discord
-                  </button>
-                </div>
-                <div className="column">
-                  <button
-                    className="button is-primary"
-                    onClick={() => {
-                      const PDF = window.open("http://www.google.fr","WeLink");
-                    }}
-                  >
-                    Loi de la ville
-                  </button>
-                </div>
-              </div>
+                le seveur bro's RP bratatatatattatatatta ETC... Présentation et
+                autre text important de site directement sur la page d'acueil ( a completé )
+              </p>              
             </header>
 
             <div className="column is-5-desktop has-text-centered-touch">
               {/**
-               * avoir le sangs
+               * à voir le sangs
                */}
             </div>
           </div>
-
-        
-
-
-
           <div className="column is-1" />
           <div className="column">
             <figure className=" images image effets MainSection__image image">

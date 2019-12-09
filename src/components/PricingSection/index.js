@@ -12,8 +12,8 @@ function PricingSection(props) {
         <Pricing
           items={[
             {
-              timespan: "Q Q O Q C P?",
-              description: " a voire "
+              timespan: "LA ville",
+              description: " Pour les regle de la ville voir le PDF present sur le haut du site"
             },
             {
               timespan: "Qui sommes nous?",

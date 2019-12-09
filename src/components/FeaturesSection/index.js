@@ -8,12 +8,49 @@ function FeaturesSection(props) {
       <div className="container">
         <header className="section-header">
           <h1 className="title is-spaced is-2 has-text-weight-bold">
-            Tout sur le serveur
+            Utilitaire
           </h1>
-          <h2 className="FeaturesSection__subtitle subtitle">
-            Sample de text.
+          <h2 className="FeaturesSection__subtitle subtitle">            
+          {/**
+           * Section des button de la page d'acueille.
+           */}
+          <div className="columns">
+            <div className="column">
+              <button
+              className="button is-primary"
+              onClick={() => {
+                const el = document.getElementById("pricing");
+                el.scrollIntoView({ behavior: "smooth", block: "start" });
+              }}
+            >
+              FAQ
+            </button>
+            </div>
+            <div className="column">
+              <button
+                className="button is-primary"
+                onClick={() => {
+                  const lien = window.open('https://discord.gg/CaNC79W','lienWebToDiscord')
+                  
+                }}
+              >
+                Discord
+              </button>
+            </div>
+            <div className="column">
+              <button
+                className="button is-primary"
+                onClick={() => {
+                  const PDF = window.open("http://www.google.fr","WeLink");
+                }}
+              >
+                Loi de la ville
+              </button>
+            </div>
+          </div>
           </h2>
         </header>
+        
         <Features
           items={[
             {
