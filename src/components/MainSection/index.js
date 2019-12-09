@@ -29,8 +29,8 @@ function MainSection(props) {
           </div>
           <div className="column is-1" />
           <div className="column">
-            <figure className=" image MainSection__image image">
-              <img src="https://i.imgur.com/xkJVwPA.png" />
+            <figure className=" images effets MainSection__image image">
+              <img src="https://imgur.com/g4qoXJj.png" />
             </figure>
           </div>
         </div>

@@ -22,3 +22,11 @@
   padding: 5px;
   max-width: 100%;
 }
+.effet{
+  width: 400px; height: 300px;
+  margin: 0 auto 50px auto;
+  box-shadow: 0 1px 5px rgba(0,0,0,.5);
+}
+.effet img{
+  position: absolute;
+}
