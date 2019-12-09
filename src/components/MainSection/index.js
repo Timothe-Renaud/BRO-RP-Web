@@ -49,7 +49,7 @@ function MainSection(props) {
                       const PDF = window.open("http://www.google.fr","WeLink");
                     }}
                   >
-                    Le règlement
+                    Loi de la ville
                   </button>
                 </div>
               </div>
