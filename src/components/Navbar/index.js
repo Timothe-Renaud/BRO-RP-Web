@@ -8,14 +8,12 @@ function Navbar(props) {
     <nav className="Navbar navbar">
       <div className="container">
         <div className="navbar-brand">
-          <a className="navbar-item" href="/">
             <img
             alt=''
-              src=""
-              width={100}
-              height={150}
+              src="https://i.imgur.com/ofnFzzg.png"
+             /*  width={100}
+              height={200} */
             />
-          </a>
         </div>
       </div>
     </nav>
