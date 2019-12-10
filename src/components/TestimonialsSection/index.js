@@ -17,10 +17,10 @@ function TestimonialsSection(props) {
               Titre: "Armurerie",
               bio:
                 " Voici la liste des armes en vente Libre dans tout les armureries de l'ile ( uniquement si l'acheteur est en possetion du PPA )",
-              company: "MonArmureRie.net.FR.fr.WebXDDDDDX.com",
+              company: "MonArmurerie.net.FR.fr.Web.XD.com",
               name:"Armurerie",
               Img:"https://vignette.wikia.nocookie.net/gta/images/4/4e/CombatPistol-GTA5-ingame.png/revision/latest?cb=20150322130300&path-prefix=fr",
-              companyUrl: "https://company.com"
+              companyUrl: "#"
             },
             {
               headerImage: "https://source.unsplash.com/uwPBAlQyIag/1080x360",
@@ -30,7 +30,7 @@ function TestimonialsSection(props) {
               bio:
                 "Ci-dessous, vous aurez accès au fascicule de vente de tout les deux et quatre roue de l'ile tout droit importé du nepal du Nord, ce qui vous garentis des vehicules de qualités et l'epreuve des balles askip",
               company: "JackyTunning.XD.BennyHill.com",
-              companyUrl: "https://company.com"
+              companyUrl: "#"
             },
             {
               headerImage: "https://source.unsplash.com/pJ_DCj9KswI/1080x360",
@@ -40,7 +40,7 @@ function TestimonialsSection(props) {
               bio:
                 "Ici vous pourrez avoir uniquement la liste des objets illegaux ( ne pas ce faire controlé avec). Les points de ventes sont à trouver sur l'ile.",
               company: "DarkWebZerDuNet.CpasKramé.com",
-              companyUrl: "https://company.com"
+              companyUrl: "#"
             }
           ]}
         />
