@@ -7,7 +7,7 @@ function TestimonialsSection(props) {
     <section className="TestimonialsSection section is-medium">
       <div className="container">
         <header className="section-header">
-          <h1 className="title has-text-centered">Testimonials</h1>
+          <h1 className="title has-text-centered"> Législation </h1>
         </header>
         <Testimonials
           items={[
@@ -17,7 +17,7 @@ function TestimonialsSection(props) {
               Titre: "Armurerie",
               bio:
                 " Voici la liste des armes en vente Libre dans tout les armureries de l'ile ( uniquement si l'acheteur est en possetion du PPA )",
-              company: "MonArmurerie.net.FR.fr.Web.XD.com",
+              company: "MonArmurerie.net.FR.XD.mescouilles.com",
               name:"Armurerie",
               Img:"https://vignette.wikia.nocookie.net/gta/images/4/4e/CombatPistol-GTA5-ingame.png/revision/latest?cb=20150322130300&path-prefix=fr",
               companyUrl: "#"
@@ -38,7 +38,7 @@ function TestimonialsSection(props) {
               name: " Objet et arme Illegal",
               Img: "https://fairy-v.com/wp-content/uploads/2017/08/CompactRifle.png",
               bio:
-                "Ici vous pourrez avoir uniquement la liste des objets illegaux ( ne pas ce faire controlé avec). Les points de ventes sont à trouver sur l'ile.",
+                "Ici vous pourrez avoir ( uniquement ) la liste des objets illegaux ( ne pas ce faire controlé avec). Les points de ventes sont à trouver sur l'ile.",
               company: "DarkWebZerDuNet.CpasKramé.com",
               companyUrl: "#"
             }
