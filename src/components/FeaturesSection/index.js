@@ -38,7 +38,7 @@ function FeaturesSection(props) {
                 }}
               >
                 <p>
-                <span className="fa fa-group" alt="Discord"></span> Le vocal
+                <span className="fa fa-group" alt="Discord"></span> VOIP
                 </p>
               </button>
             </div>

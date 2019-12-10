@@ -20,8 +20,11 @@ function App(props) {
       <ClientsSection />
       <Divider />
       <FeaturesSection />
+      <Divider />
       <TestimonialsSection />
+      <Divider />
       <FeaturesSectionAlt />
+      <Divider />
       <PricingSection />
       <Footer />
     </>
