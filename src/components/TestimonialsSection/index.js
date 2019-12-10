@@ -14,30 +14,32 @@ function TestimonialsSection(props) {
             {
               headerImage:
                 "https://images.unsplash.com/photo-1492138623748-a1b1f758a762",
-              avatarImage: "http://i.pravatar.cc/150?img=68",
+              Titre: "Armurerie",
               bio:
-                "Serveur heberger sur {Site}, utilisant Fivem et disposant de XXX slots joueur. tout les mode sont issue du processus de developpement officiel Fivem pour garantir une experienc ede jeu maximale.",
-              company: "company.com",
+                " Voici la liste des armes en vente Libre dans tout les armureries de l'ile ( uniquement si l'acheteur est en possetion du PPA )",
+              company: "MonArmureRie.net.FR.fr.WebXDDDDDX.com",
+              name:"Armurerie",
+              Img:"https://vignette.wikia.nocookie.net/gta/images/4/4e/CombatPistol-GTA5-ingame.png/revision/latest?cb=20150322130300&path-prefix=fr",
               companyUrl: "https://company.com"
             },
             {
               headerImage: "https://source.unsplash.com/uwPBAlQyIag/1080x360",
-              avatarImage: "http://i.pravatar.cc/150?img=35",
-              name: "Lisa Zinn",
-              role: "Software Engineer",
+              Titre: "Auto & Moto",
+              name: "Concessionnaire auto & moto",
+              Img: "https://i.imgur.com/MZI18Y2.png",
               bio:
-                "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum consequatur numquam aliquam tenetur ad amet inventore hic beatae, quas accusantium perferendis sapiente explicabo, corporis totam!",
-              company: "company.com",
+                "Ci-dessous, vous aurez accès au fascicule de vente de tout les deux et quatre roue de l'ile tout droit importé du nepal du Nord, ce qui vous garentis des vehicules de qualités et l'epreuve des balles askip",
+              company: "JackyTunning.XD.BennyHill.com",
               companyUrl: "https://company.com"
             },
             {
               headerImage: "https://source.unsplash.com/pJ_DCj9KswI/1080x360",
-              avatarImage: "http://i.pravatar.cc/150?img=16",
-              name: "Diana Low",
-              role: "Designer",
+              Titre: "Objets Illegal",
+              name: " Objet et arme Illegal",
+              Img: "https://fairy-v.com/wp-content/uploads/2017/08/CompactRifle.png",
               bio:
-                "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum consequatur numquam aliquam tenetur ad amet inventore hic beatae.",
-              company: "company.com",
+                "Ici vous pourrez avoir uniquement la liste des objets illegaux ( ne pas ce faire controlé avec). Les points de ventes sont à trouver sur l'ile.",
+              company: "DarkWebZerDuNet.CpasKramé.com",
               companyUrl: "https://company.com"
             }
           ]}

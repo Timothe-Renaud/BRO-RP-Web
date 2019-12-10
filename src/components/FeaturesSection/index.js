@@ -54,6 +54,38 @@ function FeaturesSection(props) {
                 </p>
               </button>
             </div>
+            <div className="column">
+              <button
+                className="button is-dark is-large"
+                onClick={() => {
+                  const PDF = window.open("http://www.google.fr","WeLink");
+                }}
+              >
+                <p>
+                  <span className="fa fa-gavel"></span> Mort RP
+                </p>
+              </button>
+            </div>
+            <div className="column">
+              <button
+                className="button is-dark is-large"
+                onClick={() => {
+                  const PDF = window.open("http://www.google.fr","WeLink");
+                }}
+              >
+                <p>
+                  <span className="fa fa-gavel"></span> Kit Stream
+                </p>
+              </button>
+            </div>
+
+
+
+
+
+
+
+
           </div>
           </h2>
         </header>
