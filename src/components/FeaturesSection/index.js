@@ -58,7 +58,7 @@ function FeaturesSection(props) {
               <button
                 className="button is-dark is-large"
                 onClick={() => {
-                  const PDF = window.open("http://www.google.fr","WeLink");
+                  const PDF = window.open("https://forms.gle/v5zaDuLE55HSRuay8","WeLink");
                 }}
               >
                 <p>
