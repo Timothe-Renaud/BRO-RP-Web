@@ -9,7 +9,7 @@ function FeaturesSection(props) {
       <div className="container">
         <header className="section-header">
           <h1 className="title is-spaced is-2 has-text-weight-bold">
-            Utilitaire
+            Les points importants
           </h1>
           <h2 className="FeaturesSection__subtitle subtitle">            
           {/**
@@ -18,19 +18,20 @@ function FeaturesSection(props) {
           <div className="columns">
             <div className="column">
               <button
-              className="button is-primary"
+              className="button is-dark is-large"
               onClick={() => {
                 const el = document.getElementById("pricing");
                 el.scrollIntoView({ behavior: "smooth", block: "start" });
               }}
             >
               <p>
-             <span className="fa fa-question-circle"></span> FAQ</p>
+                <span className="fa fa-question-circle"></span> FAQ
+              </p>
             </button>
             </div>
             <div className="column">
               <button
-                className="button is-primary"
+                className="button is-dark is-large"
                 onClick={() => {
                   const lien = window.open('https://discord.gg/CaNC79W','lienWebToDiscord')
                   
@@ -43,7 +44,7 @@ function FeaturesSection(props) {
             </div>
             <div className="column">
               <button
-                className="button is-primary"
+                className="button is-dark is-large"
                 onClick={() => {
                   const PDF = window.open("http://www.google.fr","WeLink");
                 }}
@@ -92,7 +93,7 @@ function FeaturesSection(props) {
               description:
                 "In a professional context it often happens that private or corporate clients corder a publication to be made and presented with the actual content.",
               image:
-                "https://i.imgur.com/PawdbHJ.jpg"
+                "https://i.imgur.com/qUa6qHb.jpg"
             },
             {
               title: "Le Concessionnaire",
