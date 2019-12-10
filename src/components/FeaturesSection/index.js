@@ -2,6 +2,7 @@ import React from "react";
 import Features from "./../Features";
 import "./styles.scss";
 
+
 function FeaturesSection(props) {
   return (
     <section className="section is-medium">
@@ -23,7 +24,8 @@ function FeaturesSection(props) {
                 el.scrollIntoView({ behavior: "smooth", block: "start" });
               }}
             >
-              FAQ
+              <p>
+             <span className="fa fa-question-circle"></span> FAQ</p>
             </button>
             </div>
             <div className="column">
@@ -34,7 +36,9 @@ function FeaturesSection(props) {
                   
                 }}
               >
-                Discord
+                <p>
+                <span className="fa fa-group" alt="Discord"></span> Le vocal
+                </p>
               </button>
             </div>
             <div className="column">
@@ -44,13 +48,15 @@ function FeaturesSection(props) {
                   const PDF = window.open("http://www.google.fr","WeLink");
                 }}
               >
-                Loi de la ville
+                <p>
+                  <span className="fa fa-gavel"></span> la Loi
+                </p>
               </button>
             </div>
           </div>
           </h2>
         </header>
-        
+
         <Features
           items={[
             {

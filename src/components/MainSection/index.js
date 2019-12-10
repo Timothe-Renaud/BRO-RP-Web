@@ -26,7 +26,7 @@ function MainSection(props) {
           </div>
           <div className="column is-1" />
           <div className="column">
-            <figure className=" images image effets MainSection__image image">
+            <figure className=" imagesPerso effet MainSection__image">
               <img src="https://i.imgur.com/RPeK41o.png" />
             </figure>
           </div>
