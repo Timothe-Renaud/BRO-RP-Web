@@ -16,7 +16,8 @@ function PricingSection(props) {
               ListeJob:
                 " Bro's RP est un serveur Roleplay de GTA V propulsé par FiveM sous FXServer. ",
               description:
-                "Hébergé en France depuis un serveur dédié de dernière génération, notre serveur tourne en permanence et est accessible 24h/24 7j/7 depuis FiveM. Pourquoi FiveM ?"
+                "Hébergé en France depuis un serveur dédié de dernière génération, notre serveur tourne en permanence et est accessible 24h/24 7j/7 depuis FiveM. Pourquoi FiveM ?",
+                emphasized: false
             },           
             {
               timespan: "Qui sommes nous?",
@@ -27,7 +28,7 @@ function PricingSection(props) {
                 " L'informatique c'est notre delire et coeur de metier, ducoup comme on aime bien ce tapé des barres sur le net on a ouvert le serveur Bro's Rp." +
                 " les regles sont stric la vie de moi si tu fait TB on te vire." +
                 " Si vous avez un problems vous pouvez sans hesité nous Mp sur Discord, nous vous repondrons dans les meilleurs delais.",
-              emphasized: true
+              emphasized: false
             },
             {
               timespan: "Pourquoi FiveM",
@@ -37,7 +38,8 @@ function PricingSection(props) {
                 "Cette plateforme permet une plus grande flexibilité en terme de modifications (scripts, mods, etc) aussi bien du côté serveur que du côté client." +
                 " Grâce à cela nous pouvons vraiment faire de notre serveur un Monde qui ne ressemble à aucun autre." +
                 " D’un point de vue technique, elle est également bien mieux optimisée que certaines autres plateformes grâce au DMA (Direct Access Memory), soit une meilleure gestion du CPU et la RAM." +
-                " Combien de Slots sont disponibles ?"              
+                " Combien de Slots sont disponibles ?",
+              emphasized: false
             },
             {
               timespan: " Slot (pas slut) et whitelist",
@@ -48,7 +50,7 @@ function PricingSection(props) {
                 " Oui, le Serveur n’est accessible qu’aux joueurs WhiteListés. Ceci pour raison très simple : Nous souhaitons que tous nos joueurs aient la meilleure expérience de Roleplay possible."+
                 " Laisser le serveur ouvert au public serait une porte ouverte au chaos dans les rues de Los Santos. Pour rejoindre le server rendez-vous sur notre Discord."
                 ,
-              emphasized: true
+              emphasized: false
             },
             {
               timespan: "Entreprise et Organisation",
@@ -64,7 +66,7 @@ function PricingSection(props) {
                 " euuuuh",
               description:
                 " bah en fait, on preferais faire un site Web ou tout vas être relayer, mais si vous etez chaud et que l'on s'entend bien, on peut evisager quelque chose par ce que j'avoue que j'ai la giga flemme xD. ",
-              emphasized: true
+              emphasized: false
             }            
           ]}
         />
