@@ -5,7 +5,7 @@ import "./styles.scss";
 
 function FeaturesSection(props) {
   return (
-    <section className="section is-medium">
+    <section className="gradient section is-medium">
       <div className="container">
         <header className="section-header">
           <h1 className="title is-spaced is-2 has-text-weight-bold">

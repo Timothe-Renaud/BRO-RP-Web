@@ -8,7 +8,7 @@ function Testimonials(props) {
       {props.items.map(item => (
         <div className="Testimonials__column column">
           <div className="Testimonials__card card">
-            <div className="Testimonials__card-content card-content has-text-centered">
+            <div className="Testimonials__card-content card-content has-text-centered Perso">
                 <div className="title is-5">
                   <h1> {item.Titre} </h1>
                 </div>

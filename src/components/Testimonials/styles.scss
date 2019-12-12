@@ -1,3 +1,6 @@
+.card {
+  box-shadow: 0 16px 48px #6a2323;
+}
 .Testimonials__column {
   display: flex;
   align-items: stretch;
@@ -22,6 +25,10 @@
   border-radius: 50%;
 }
 
+/*
+* Si l'idée vous prend, il est possible de metre un image en entête des cards.
+* Les parametre d'affichage de l'imega sont ci dessous.
+*/
 .Testimonials__image {
   border-radius: 50%;
   overflow: hidden;
@@ -35,4 +42,8 @@
 .Testimonials__info {
   margin-top: auto;
   padding-top: 40px;
+}
+
+.Perso {
+  background: linear-gradient(0.90turn, #9198e5, #e66465);
 }

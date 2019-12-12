@@ -1,4 +1,9 @@
+.section {
+  background: linear-gradient(0.25turn, #e66465, #9198e5);
+}
+
+
 .PricingSection__container {
   // Override Bulma .container
-  max-width: 800px;
+  max-width: 800px;  
 }

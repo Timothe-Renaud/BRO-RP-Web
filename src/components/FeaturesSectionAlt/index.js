@@ -4,7 +4,7 @@ import "./styles.scss";
 
 function FeaturesSectionAlt(props) {
   return (
-    <section className="FeaturesSectionAlt section is-medium">
+    <section className="gradient FeaturesSectionAlt section is-medium">
       <div className="FeaturesSectionAlt__container container">        
         <FeaturesAlt
           items={[

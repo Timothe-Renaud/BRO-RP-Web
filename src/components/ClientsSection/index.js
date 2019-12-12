@@ -4,7 +4,7 @@ import "./styles.scss";
 
 function ClientsSection(props) {
   return (
-    <section className="ClientsSection section">
+    <section className="gradient ClientsSection section">
       <div className="container">
         <Clients
           items={[

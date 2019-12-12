@@ -1,6 +1,10 @@
 .Navbar {
   // Override Bulma .navbar
   // Make it taller
-  padding-top: 24px;
-  padding-bottom: 24px;
+  padding-left: auto;
+  padding-right: auto;
+  padding-top: auto;
+  padding-bottom: auto;
+  background: linear-gradient(0.25turn, #e66465, #9198e5);
+  text-align: center;
 }

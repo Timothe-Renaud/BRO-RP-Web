@@ -14,19 +14,15 @@ function App(props) {
   return (
     <>
     {/* Ici j'ai supprimer la navbar par ce qu'elle pret de la place mais n'est pas utilisé
-    Les files sont toujours present dans le project mais rien n'est actif (juste pour la MCO) 
-      <Navbar />*/}
-      <MainSection />
-      <ClientsSection />
-      <Divider />
-      <FeaturesSection />
-      <Divider />
-      <TestimonialsSection />
-      <Divider />
-      <FeaturesSectionAlt />
-      <Divider />
-      <PricingSection />
-      <Footer />
+    Les files sont toujours present dans le project mais rien n'est actif (juste pour la MCO) */}
+    <Navbar />
+    <MainSection />
+    <ClientsSection />
+    <FeaturesSection />
+    <TestimonialsSection />
+    <FeaturesSectionAlt />
+    <PricingSection />
+    <Footer />
     </>
   );
 }

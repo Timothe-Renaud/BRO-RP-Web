@@ -6,7 +6,7 @@ function TestimonialsSection(props) {
   return (
     <section className="TestimonialsSection section is-medium">
       <div className="container">
-        <header className="section-header">
+        <header className="section-header ">
           <h1 className="title has-text-centered"> Législation </h1>
         </header>
         <Testimonials
