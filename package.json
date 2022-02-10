@@ -15,7 +15,7 @@
   "description": null,
   "dependencies": {
     "bulma": "0.7.2",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "react": "16.8.0",
     "react-dom": "16.8.0",
     "react-scripts": "2.0.3"
